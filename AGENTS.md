@@ -88,6 +88,7 @@ Any email and any password → **Sign in** → security code **246810** → **Ve
 - **Agency Admin** — `sadaqat786921/Corliva-agency-admin-portal` (sees each client's billing, view only).
 - **Care Coordinator**, **HR Officer**, **Director of Nursing**, **Caregiver** — their own portals (`Corliva-care-cordinator-portal`, `Corliva-hr-officer-portal`, `Corliva-don-portal`, `corliva-caregiver-portal`).
 - **Client & Family** — own portal: `sadaqat786921/corliva-client-family-portal` (phone-friendly: visits, checked visit summaries, care plan in use, shared documents, updates, change requests to the coordinator).
+- **Super Admin (Platform Admin)** — own portal: `sadaqat786921/corliva-super-admin-portal` (CORLIVA's own team: adds agencies and their first Agency Admin, plans and subscriptions, features per agency, roles and permissions, connections, sign-in security, backups and platform audit history; support access to an agency is view only and the Agency Admin is told).
 
 ## Run
 ```
