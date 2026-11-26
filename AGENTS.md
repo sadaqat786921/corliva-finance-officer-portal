@@ -87,6 +87,7 @@ Any email and any password → **Sign in** → security code **246810** → **Ve
 - **Care Supervisor** — `sadaqat786921/Corliva-care-supervisor-portal` (approves visits; asks Finance for adjustments after invoicing).
 - **Agency Admin** — `sadaqat786921/Corliva-agency-admin-portal` (sees each client's billing, view only).
 - **Care Coordinator**, **HR Officer**, **Director of Nursing**, **Caregiver** — their own portals (`Corliva-care-cordinator-portal`, `Corliva-hr-officer-portal`, `Corliva-don-portal`, `corliva-caregiver-portal`).
+- **Client & Family** — own portal: `sadaqat786921/corliva-client-family-portal` (phone-friendly: visits, checked visit summaries, care plan in use, shared documents, updates, change requests to the coordinator).
 
 ## Run
 ```
